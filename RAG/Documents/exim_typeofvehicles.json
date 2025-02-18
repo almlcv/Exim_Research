@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "663c9fdc21cfffccf17cae8a",
+    "type_of_vehicle": "20 feet 12 wheels",
+    "__v": 0
+  },
+  {
+    "_id": "66a098015f2154a77d8a044c",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "__v": 0
+  },
+  {
+    "_id": "66a0990a5f2154a77d8a044f",
+    "type_of_vehicle": "40 feet 3-axle trailer",
+    "__v": 0
+  },
+  {
+    "_id": "663c9fb121cfffccf17cae88",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "__v": 0
+  },
+  {
+    "_id": "66a0983a5f2154a77d8a044d",
+    "type_of_vehicle": "40 feet 2-axle trailer",
+    "__v": 0
+  },
+  {
+    "_id": "66a099145f2154a77d8a0450",
+    "type_of_vehicle": "40 feet 3-axle tipper trailer",
+    "__v": 0
+  },
+  {
+    "_id": "663c9ff421cfffccf17cae8c",
+    "type_of_vehicle": "20 feet 2-axle trailer",
+    "__v": 0
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "_id": "655f71f8482e9b3773fc0044",
+    "truck_no": "GJ18AZ5588",
+    "tyres": [
+      {
+        "tyre_no": "V0196405120",
+        "location": "1",
+        "fitting_date": "2023-11-16",
+        "fitting_date_odometer": "159007",
+        "_id": "655f71f8482e9b3773fc0045"
+      },
+      {
+        "tyre_no": "H0062700623",
+        "location": "2",
+        "fitting_date": "2023-11-16",
+        "fitting_date_odometer": "159007",
+        "_id": "655f72fd482e9b3773fc0058"
+      }
+    ],
+    "drivers": [],
+    "__v": 1
+  },
+  {
+    "_id": "659d0c6461d8fc2903d888b2",
+    "truck_no": "GJ18AZ4495",
+    "tyres": [
+      {
+        "tyre_no": "ddddd",
+        "location": "FL",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "100000",
+        "_id": "659d0c6461d8fc2903d888b3"
+      }
+    ],
+    "drivers": [],
+    "__v": 0
+  },
+  {
+    "_id": "659d0eae61d8fc2903d888d1",
+    "truck_no": "GJ18AV7468",
+    "tyres": [
+      {
+        "tyre_no": "70082222971",
+        "location": "T-A1-RI",
+        "fitting_date": "2023-12-07",
+        "fitting_date_odometer": "100000",
+        "_id": "659d0eae61d8fc2903d888d2"
+      }
+    ],
+    "drivers": [],
+    "__v": 0
+  },
+  {
+    "_id": "659d209361d8fc2903d88915",
+    "truck_no": "GJ18AV4735",
+    "tyres": [
+      {
+        "tyre_no": "U2644973022",
+        "location": "T-A1-RI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d209361d8fc2903d88916"
+      },
+      {
+        "tyre_no": "30306801522",
+        "location": "T-A1-LO",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d20dc61d8fc2903d8891a"
+      },
+      {
+        "tyre_no": "K0001190222",
+        "location": "P-A1-LI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "00000",
+        "_id": "659d211661d8fc2903d88923"
+      },
+      {
+        "tyre_no": "H0014402222",
+        "location": "P-A1-LI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d216561d8fc2903d8892e"
+      }
+    ],
+    "drivers": [
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-12",
+        "_id": "659fbce661d8fc2903d88ca7"
+      }
+    ],
+    "__v": 4
+  },
+  {
+    "_id": "659e6d4f61d8fc2903d88ab5",
+    "truck_no": "GJ18AU8480",
+    "tyres": [
+      {
+        "tyre_no": "30306801522",
+        "location": "T-A1-RI",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6d4f61d8fc2903d88ab6"
+      },
+      {
+        "tyre_no": "U2644973022",
+        "location": "T-A1-RO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6d9461d8fc2903d88abe"
+      },
+      {
+        "tyre_no": "K0001190222",
+        "location": "T-A1-LI",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6de061d8fc2903d88ac7"
+      },
+      {
+        "tyre_no": "30108623519",
+        "location": "T-A1-LO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6e1861d8fc2903d88ad0"
+      },
+      {
+        "tyre_no": "H0014402222",
+        "location": "P-A1-LO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "000001",
+        "_id": "659e6e6d61d8fc2903d88ad8"
+      },
+      {
+        "tyre_no": "K0139032621",
+        "location": "P-A1-RO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6ea861d8fc2903d88ae6"
+      }
+    ],
+    "drivers": [],
+    "__v": 5
+  },
+  {
+    "_id": "659f8a5061d8fc2903d88be6",
+    "truck_no": "TN48PO4226",
+    "tyres": [
+      {
+        "tyre_no": "P225/70R1691S",
+        "location": "FL",
+        "fitting_date": "2024-01-11",
+        "fitting_date_odometer": "25",
+        "_id": "659f8a5061d8fc2903d88be7"
+      },
+      {
+        "tyre_no": "P225/7091S",
+        "location": "FL",
+        "fitting_date": "2024-01-11",
+        "fitting_date_odometer": "RR",
+        "_id": "659f8ced61d8fc2903d88c03"
+      }
+    ],
+    "drivers": [
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fb7ca61d8fc2903d88c83"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fb7e561d8fc2903d88c8d"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fbb7c61d8fc2903d88c94"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fbc1d61d8fc2903d88c9c"
+      }
+    ],
+    "__v": 5
+  },
+  {
+    "_id": "659fb7d661d8fc2903d88c86",
+    "truck_no": "",
+    "drivers": [
+      {
+        "driver_name": "",
+        "driver_license": "ADF52884",
+        "assign_date": "",
+        "_id": "659fb7d661d8fc2903d88c87"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "",
+        "_id": "659fbc3e61d8fc2903d88ca0"
+      }
+    ],
+    "tyres": [],
+    "__v": 1
+  }
+]

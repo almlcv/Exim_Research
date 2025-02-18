@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "655db744900842bb54ff1af9",
+    "vendor_name": "The Golden Wheel",
+    "vendor_address": "A-11, Relief Estate, B/h. Ekta Hotel, Sarkhej, Ahmedabad.382210",
+    "vendor_phone": "9426055344,9227223970",
+    "__v": 0
+  },
+  {
+    "_id": "655dcc7d900842bb54ff1be7",
+    "vendor_name": "SHREE AAI TRADING",
+    "vendor_address": "2,KRISHNA PLAZA,OPP CONTAINER DEPO, JAMIYATPUTA",
+    "vendor_phone": "9909988327",
+    "__v": 0
+  },
+  {
+    "_id": "655f68f1482e9b3773fbffdb",
+    "vendor_name": "GURUKRUPA TYRE RETREADS",
+    "vendor_address": "68, SHREENATH INDUSTRIAL ESTATE NANA CHILODA RAILWAY CROSSING S.P.RING ROAD AHEMEDABAD",
+    "vendor_phone": "7623092422",
+    "__v": 0
+  },
+  {
+    "_id": "656f1090482e9b3773fc0333",
+    "vendor_name": "SHREE BAHUCHAR TYRE SERVICE",
+    "vendor_address": "NR.ICD KHODIYAR RAILWAY STAION ROAD ADALAJ GANDHINAGAR 23",
+    "vendor_phone": "8000929145",
+    "__v": 0
+  },
+  {
+    "_id": "656f1735482e9b3773fc0345",
+    "vendor_name": "RADHA TYRE RETREADS",
+    "vendor_address": "N-7 NARNARAYAN ESTATE NEAR MAHALAXMI MILLS NAROL ISANPUR AHEMDABAD",
+    "vendor_phone": "7383255198",
+    "__v": 0
+  },
+  {
+    "_id": "657c6443bf051cfeece67bc5",
+    "vendor_name": "EXISTING",
+    "vendor_address": "NR.ICD KHODIYAR RAILWAY STAION ROAD ADALAJ GANDHINAGAR 23",
+    "vendor_phone": "9924304633",
+    "_date": "15/12/2023",
+    "__v": 0
+  },
+  {
+    "_id": "659e638161d8fc2903d88a7a",
+    "vendor_name": "Kumar",
+    "vendor_address": "306 Wall Street 2",
+    "vendor_phone": "9924300511",
+    "_date": "10/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65aba66d61d8fc2903d88e1e",
+    "vendor_name": "GANESH TYRE RETRADERS",
+    "vendor_address": "170/3 NrSHYAM PALACE HOTEL RING ROAD CIRCLE NANA CHILODA AHEMDABAD",
+    "vendor_phone": "9924744695",
+    "_date": "20/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "667ff251bdae59210ab79998",
+    "vendor_name": "ELITE MULTI METALS LLP",
+    "vendor_address": "Amba Hotel, Chandial",
+    "vendor_phone": "9723289018",
+    "_date": "29/06/2024",
+    "__v": 0
+  },
+  {
+    "_id": "668251e8bdae59210ab79dbe",
+    "vendor_name": "SSG GLOBAL",
+    "vendor_address": "263,GVMM SAV LTD, ODHAV ROAD, AHMEDABAD",
+    "vendor_phone": "9662323699",
+    "_date": "01/07/2024",
+    "__v": 0
+  },
+  {
+    "_id": "6682528ebdae59210ab79dc1",
+    "vendor_name": "MANGALAM WORLDWIDE LTD.",
+    "vendor_address": "SURVEY NO.:219, P3, CHAMPANER ROAD, PANCHMAHAL, HALOL -389350",
+    "vendor_phone": "9925048118",
+    "_date": "01/07/2024",
+    "__v": 0
+  },
+  {
+    "_id": "66825335bdae59210ab79dc4",
+    "vendor_name": "GEMCORP RECYCLING & TECHNOLOGIES PVT LTD.",
+    "vendor_address": "SURVEY NO.453 (OLD 180-B) VILLAGE DALPUR, TALUKA PRANTIJ, DISTRICT SABARKANTA, 383120",
+    "vendor_phone": "9817854209",
+    "_date": "01/07/2024",
+    "__v": 0
+  }
+]

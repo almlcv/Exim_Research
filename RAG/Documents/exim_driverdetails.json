@@ -1,0 +1,359 @@
+[
+  {
+    "_id": "659e684161d8fc2903d88a8e",
+    "driver_name": "BABLU",
+    "driver_address": "BAS DALEL AGRA 382126",
+    "driver_phone": "9068723531",
+    "driver_license": "UP8020150041230",
+    "license_validity": "2026-02-01",
+    "_date": "10/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "659e94cb61d8fc2903d88b4c",
+    "driver_name": "Kumar",
+    "driver_address": "306 Wall Street 2",
+    "driver_phone": "9924300511",
+    "driver_license": "ADF52884",
+    "license_validity": "2024-01-10",
+    "_date": "10/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65aba73461d8fc2903d88e2e",
+    "driver_name": "STORE",
+    "driver_address": "KHODIYAR RAILWAY STATION",
+    "driver_phone": "9924304633",
+    "driver_license": "STORE",
+    "license_validity": "2024-01-01",
+    "_date": "20/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65ba3f9eb6175b9868755117",
+    "driver_name": "ASHOK KUMAR",
+    "driver_address": "ICD KHODIYAR",
+    "driver_phone": "8238642330",
+    "driver_license": "999999",
+    "license_validity": "0099-09-09",
+    "joining_date": "2024-01-31",
+    "blood_group": "Y",
+    "driver_photo": "",
+    "license_photo": "",
+    "_date": "31/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "66a9e3708c1742161d3eaa68",
+    "driver_name": "Ashok Singh Tomor",
+    "driver_address": "Vill-Ramgarh Porsa, Dist:Morena, MP",
+    "driver_phone": "7698932847",
+    "driver_license": "MP06R202002000",
+    "license_validity": "2025-11-27",
+    "joining_date": "2024-07-31",
+    "blood_group": "na",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Ashok%20Tomar%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Ashok%20Tomar%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9e5468c1742161d3eaa6d",
+    "driver_name": "Bipin Yadav",
+    "driver_address": "Vill-Datraul, Dist:Nawada, Bihar -805124",
+    "driver_phone": "7487097885",
+    "driver_license": "BR2720180039397",
+    "license_validity": "2027-06-26",
+    "joining_date": "2022-11-30",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202022-11-16%20at%2012.43.01%20PM%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202022-11-16%20at%2012.43.01%20PM%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9e6898c1742161d3eaa70",
+    "driver_name": "Hansraj Pal",
+    "driver_address": "Vill-Sambhavan,Tah/Blak-Gauriganj,Samhanwa,Amethi,Arjunpur,Uttar Pradesh-227409",
+    "driver_phone": "9157647646",
+    "driver_license": "UP4420050003830",
+    "license_validity": "2025-06-26",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Hansraj%20pal%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202024-02-20%20at%202.35.30%20PM%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9e7f38c1742161d3eaa73",
+    "driver_name": "Chagan Singh",
+    "driver_address": "86,Badiya Bhau, Dhand, Surajpura, Ajmer, Rajasthan-305923",
+    "driver_phone": "9929468031",
+    "driver_license": "GJ0120040204886",
+    "license_validity": "2026-02-07",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Chhagan%20%285%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Chhagan%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9ea3f8c1742161d3eccd9",
+    "driver_name": "Jayram Kumar",
+    "driver_address": "Village-Navadih, Madurpur P.O,Jamui, Bihar-811315",
+    "driver_phone": "9934565688",
+    "driver_license": "AS2720140016854",
+    "license_validity": "2024-09-11",
+    "joining_date": "2023-06-07",
+    "blood_group": "O +VE",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202024-07-31%20at%201.06.23%20PM.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202024-07-31%20at%201.06.42%20PM.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9edd18c1742161d3ef61d",
+    "driver_name": "Neelesh Singh",
+    "driver_address": "Bharoli Bhind, Gohad, Madhya Pradesh -477332",
+    "driver_phone": "7043507732",
+    "driver_license": "MP30R20210029222",
+    "license_validity": "2025-12-28",
+    "joining_date": "2023-01-27",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202024-07-31%20at%201.23.52%20PM.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202024-07-31%20at%201.20.58%20PM.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9f0d38c1742161d3efea6",
+    "driver_name": "Desh Raj Pal",
+    "driver_address": "Sambhava, Arjunpur,Gauriganj,Amethi, Uttar Pradesh -227409",
+    "driver_phone": "8423732330",
+    "driver_license": "UP3620190011360",
+    "license_validity": "2028-02-14",
+    "joining_date": "2023-11-28",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202024-07-31%20at%201.33.59%20PM.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202024-07-31%20at%201.33.58%20PM.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9f2f48c1742161d3efeaa",
+    "driver_name": "Narayan D Singh",
+    "driver_address": "Kheta Ka Khera, Kookra, Rajsamand,Rajasthan -305921",
+    "driver_phone": "7728045321",
+    "driver_license": "GJ0119950829720",
+    "license_validity": "2028-07-26",
+    "joining_date": "2023-06-07",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Narayan%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Narayan%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9f5168c1742161d3efeaf",
+    "driver_name": "Kailashi",
+    "driver_address": "Nayavas, Chaukra, Agra Uttar Pradesh",
+    "driver_phone": "9045119982",
+    "driver_license": "UP8020090015846",
+    "license_validity": "2027-01-18",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Kailashi%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Kailashi%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9f63f8c1742161d3efeb2",
+    "driver_name": "Suresh Kumar Maurya",
+    "driver_address": "Dendasai,Fatehpur, Uttar Pradesh-212656",
+    "driver_phone": "9327456119",
+    "driver_license": "UP7819930027975",
+    "license_validity": "2027-11-02",
+    "joining_date": "2024-02-24",
+    "blood_group": "na",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Suresh%20Kumar%20Mourya%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Suresh%20Kumar%20Mourya%20%283%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a9fb468c1742161d3efebd",
+    "driver_name": "Awadhesh Kumar",
+    "driver_address": "Villa-Gahlour, P.O-Markrama, Ward no 10, Islam Nagar Aliganj-811301",
+    "driver_phone": "8210962940",
+    "driver_license": "BR0620150089058",
+    "license_validity": "2027-10-20",
+    "joining_date": "2022-11-28",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202022-12-03%20at%2012.51.07%20PM.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202022-12-03%20at%2012.51.08%20PM%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa00288c1742161d3efef2",
+    "driver_name": "Narayan R Pavar",
+    "driver_address": "Borkheda Post,Graam Kathiri,Rajgarh,Madhya Pradesh-465667",
+    "driver_phone": "9799318264",
+    "driver_license": "GJ0119990029398",
+    "license_validity": "2027-02-01",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Narayan%20Nath%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Narayan%20Nath%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa05248c1742161d3eff2a",
+    "driver_name": "Murtuza Ahmed",
+    "driver_address": "Keshar Bhuvan Chali,Kaligam, Ahmedabad -382470",
+    "driver_phone": "7359228656",
+    "driver_license": "MH0119830011748",
+    "license_validity": "2027-03-09",
+    "joining_date": "2018-09-26",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/WhatsApp%20Image%202022-11-09%20at%206.15.38%20PM%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/WhatsApp%20Image%202022-11-09%20at%206.15.37%20PM%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa06768c1742161d3eff2f",
+    "driver_name": "Mutuk Dhari Yadav",
+    "driver_address": "Bhatauli,Maharajganj,Badalapur,Uttar Pradesh,222145",
+    "driver_phone": "8511806551",
+    "driver_license": "UP6219990000691",
+    "license_validity": "2026-06-21",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Aadhar%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/DL%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa074b8c1742161d3eff3b",
+    "driver_name": "Kuldeep",
+    "driver_address": "Nagla Singi Post,Tundla, Firozabad, Uttar Pradesh -283204",
+    "driver_phone": "9724929041",
+    "driver_license": "UP8320140006999",
+    "license_validity": "2022-08-19",
+    "joining_date": "2024-07-31",
+    "blood_group": "na",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Kuldeep%202.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Kuldeep%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa08ae8c1742161d3eff4b",
+    "driver_name": "Suresh Kumar Chandra",
+    "driver_address": "Rajpur Jhinjhak Derapur,Kanpur,Dehat.209302",
+    "driver_phone": "8347266445",
+    "driver_license": "UP7720050009614",
+    "license_validity": "2026-08-03",
+    "joining_date": "2024-07-31",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Suresh%20Kumar%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Suresh%20Kumar%20%281%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66ab68008c1742161d40aeb2",
+    "driver_name": "Sameer Pathan",
+    "driver_address": "Bariyamua, Poora Rai,Indergarh, Kannauj,Uttar Pradesh -209723",
+    "driver_phone": "8347302116",
+    "driver_license": "UP7420070004363",
+    "license_validity": "2026-07-27",
+    "joining_date": "2024-08-01",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Aadhar.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/DL.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66ab693f8c1742161d40aec0",
+    "driver_name": "Sant Ram Pal",
+    "driver_address": "Visura,Sambhawan,Arjunpur,Gauriganj,Samhanwa,Amethi,Uttar Pradesh -227409",
+    "driver_phone": "9067478112",
+    "driver_license": "123",
+    "license_validity": "2024-08-01",
+    "joining_date": "2024-08-01",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Santram%20Pal%20Aadhar%20%282%29.jpeg",
+    "license_photo": [],
+    "__v": 0
+  },
+  {
+    "_id": "66ab6a058c1742161d40aecf",
+    "driver_name": "Arun Kumar Yadav",
+    "driver_address": "Padumpur,Nasaratpur,Soraon,Allahabad, Uttap Pradesh-212502",
+    "driver_phone": "9998313585",
+    "driver_license": "UP7020100025831",
+    "license_validity": "2025-12-29",
+    "joining_date": "2024-01-12",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Arun%20Kumar%20Yadev%20%281%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Arun%20Kumar%20Yadev%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66ab739d63d4fc5b9e34df16",
+    "driver_name": "Fajlu Rahman",
+    "driver_address": "1993,Kubernagar,Vavol,Gandhinagar.Gujarat-382016",
+    "driver_phone": "9601154109",
+    "driver_license": "RJ2019970089784",
+    "license_validity": "2025-07-06",
+    "joining_date": "2024-08-01",
+    "blood_group": "NA",
+    "driver_photo": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/driver_photo/Aadhar%20%282%29.jpeg",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/DL%20%282%29.jpeg"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66ab748463d4fc5b9e34fb2e",
+    "driver_name": "Udesingh B Thakor",
+    "driver_address": ".",
+    "driver_phone": "9724181794",
+    "driver_license": "GJ0120020925846",
+    "license_validity": "2026-01-17",
+    "joining_date": "2024-08-01",
+    "blood_group": "NA",
+    "driver_photo": "",
+    "license_photo": [
+      "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/license_photo/Udeshingh.jpeg"
+    ],
+    "__v": 0
+  }
+]

@@ -1,0 +1,17 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber
+langchain
+openai
+streamlit
+crewai
+crewai_tools
+python-dotenv
+
+#(/home/ai/Desktop/Exim/DeepSeek/venv) ai@ai-MS-7D46:~/Desktop/Exim/DeepSeek$ cat /proc/sys/fs/inotify/max_user_watches
+# 65536
+# (/home/ai/Desktop/Exim/DeepSeek/venv) ai@ai-MS-7D46:~/Desktop/Exim/DeepSeek$ sudo sysctl fs.inotify.max_user_watches=524288
+# [sudo] password for ai: 
+# fs.inotify.max_user_watches = 524288

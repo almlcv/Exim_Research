@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "655dbf85900842bb54ff1b25",
+    "tyre_brand": "West Lake",
+    "tyre_model": "MD3753M",
+    "description": "Made in Thailand",
+    "__v": 0
+  },
+  {
+    "_id": "655dd4f3900842bb54ff1bf5",
+    "tyre_brand": "APOLLO",
+    "tyre_model": "ENDU MAXX LT",
+    "description": "Made in India",
+    "__v": 0
+  },
+  {
+    "_id": "655f6c85482e9b3773fbfff9",
+    "tyre_brand": "MRF",
+    "tyre_model": "LUG FIFTY PLUS",
+    "description": "RIMOLD",
+    "__v": 0
+  },
+  {
+    "_id": "655f6dad482e9b3773fc001a",
+    "tyre_brand": "JK",
+    "tyre_model": "JET R MILE",
+    "description": "RIMOLD",
+    "__v": 0
+  },
+  {
+    "_id": "65684c9d482e9b3773fc0265",
+    "tyre_brand": "APOLLO",
+    "tyre_model": "XMR",
+    "description": "NYLON",
+    "__v": 0
+  },
+  {
+    "_id": "656856e7482e9b3773fc0298",
+    "tyre_brand": "VIKRANTA",
+    "tyre_model": "STAR LUG",
+    "description": "NYLON",
+    "__v": 0
+  },
+  {
+    "_id": "65aba6dc61d8fc2903d88e2b",
+    "tyre_brand": "APOLLO",
+    "tyre_model": "AMAR GOLD",
+    "description": "1000.20",
+    "_date": "20/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65aba7f961d8fc2903d88e4c",
+    "tyre_brand": "CEAT",
+    "tyre_model": "FM SUPER",
+    "description": "1000.20",
+    "_date": "20/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65ba3f4bb6175b9868755113",
+    "tyre_brand": "SUPER RANGER PLUS",
+    "tyre_model": "SR9050X.L.",
+    "description": "CHINA SR9050X.L.",
+    "_date": "31/01/2024",
+    "__v": 0
+  }
+]

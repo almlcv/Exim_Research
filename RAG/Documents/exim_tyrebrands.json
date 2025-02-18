@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "655dbeed900842bb54ff1b21",
+    "tyre_brand": "West Lake",
+    "description": "Made in Thailand",
+    "__v": 0
+  },
+  {
+    "_id": "655dd49d900842bb54ff1bf1",
+    "tyre_brand": "APOLLO",
+    "description": "Made in India",
+    "__v": 0
+  },
+  {
+    "_id": "655f6b98482e9b3773fbffee",
+    "tyre_brand": "MRF",
+    "make": "MADE IN INDIA",
+    "description": "RIMOLD",
+    "__v": 0
+  },
+  {
+    "_id": "655f6d1d482e9b3773fc0010",
+    "tyre_brand": "JK",
+    "make": "MADE IN INDIA",
+    "description": "RIMOLD",
+    "__v": 0
+  },
+  {
+    "_id": "6568527d482e9b3773fc0281",
+    "tyre_brand": "WESTLAKE",
+    "description": "RADIAL",
+    "__v": 0
+  },
+  {
+    "_id": "65685622482e9b3773fc028e",
+    "tyre_brand": "VIKRANTA",
+    "description": "NYLON",
+    "__v": 0
+  },
+  {
+    "_id": "65aba7d661d8fc2903d88e48",
+    "tyre_brand": "CEAT",
+    "description": "1000.20",
+    "_date": "20/01/2024",
+    "__v": 0
+  },
+  {
+    "_id": "65ba3f02b6175b986875510f",
+    "tyre_brand": "SUPER RANGER PLUS",
+    "description": "CHINA SR9050X.L.",
+    "_date": "31/01/2024",
+    "__v": 0
+  }
+]

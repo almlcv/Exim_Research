@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "66a91de48c1742161d3e6fa5",
+    "id": 1,
+    "name": "Mohit Kumar Singh",
+    "module": "SRCC",
+    "issue": "LR accepting empty Consignor and Consignee",
+    "image": "",
+    "status": "Raised",
+    "__v": 0
+  },
+  {
+    "_id": "66a920aa8c1742161d3e703c",
+    "id": 2,
+    "name": "Mohit Kumar Singh",
+    "module": "SRCC",
+    "issue": "Driver Details update not available if license validity needs to be updated after renewal",
+    "image": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/feedback/WhatsApp%20Image%202024-07-30%20at%2010.48.03%20PM.jpeg",
+    "status": "Raised",
+    "__v": 0
+  },
+  {
+    "_id": "66a9236e8c1742161d3e722f",
+    "id": 3,
+    "name": "Mohit Kumar Singh",
+    "module": "SRCC",
+    "issue": "All status has been given in View All LRs. The status which comes after LR is generated can only be given here. Before that status has to be given in PR.",
+    "image": "",
+    "status": "Raised",
+    "__v": 0
+  },
+  {
+    "_id": "66aa34ed8c1742161d3f660e",
+    "id": 4,
+    "name": "Praveena",
+    "module": "Import - DSR",
+    "issue": "Not able to download the DSR in excel",
+    "image": "",
+    "status": "Raised",
+    "__v": 0
+  },
+  {
+    "_id": "66aa4e148c1742161d3f6b1b",
+    "id": 5,
+    "name": "Mohit Kumar Singh",
+    "module": "SRCC",
+    "issue": "Vendors not to be created separate - All firms to be created in organisations",
+    "image": "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/feedback/Master%20Vendors%20and%20organisation.jpg",
+    "status": "Raised",
+    "__v": 0
+  },
+  {
+    "_id": "66ab17238c1742161d3f8dc3",
+    "id": 6,
+    "name": "Praveena",
+    "module": "Import - DSR",
+    "issue": "1. Auto selection of SIMS instead of other options   2. Not able to assign the transporter",
+    "image": "",
+    "status": "Raised",
+    "__v": 0
+  }
+]

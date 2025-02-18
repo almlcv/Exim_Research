@@ -1,0 +1,762 @@
+[
+  {
+    "_id": "66713b6fc8f9b953ee7be486",
+    "district": "Ahmedabad",
+    "area": [
+      {
+        "area": "wall Street",
+        "pincode": "380006",
+        "_id": "66713b6fc8f9b953ee7be487"
+      },
+      {
+        "area": "Ahmedabad",
+        "pincode": "382430",
+        "_id": "66b604c6e91291e2e4e2f2bf"
+      },
+      {
+        "area": "Sanand",
+        "pincode": "382110",
+        "_id": "66b60644e91291e2e4e2f50f"
+      }
+    ],
+    "__v": 2,
+    "location": "Ahmedabad"
+  },
+  {
+    "_id": "66794bea6d94a7dd726a59e9",
+    "district": "Gandhinagar",
+    "area": [
+      {
+        "area": "Khodiyar",
+        "pincode": "382421",
+        "_id": "66794bea6d94a7dd726a59ea"
+      },
+      {
+        "area": "Khodiyar",
+        "pincode": "382421",
+        "_id": "66794cce6d94a7dd726a59ee"
+      },
+      {
+        "area": "Chandial",
+        "pincode": "382305",
+        "_id": "66b5f359e91291e2e4e27c42"
+      }
+    ],
+    "__v": 2,
+    "location": "Gandhinagar"
+  },
+  {
+    "_id": "668259f2bdae59210ab79e2e",
+    "location": "KATHWADA",
+    "district": "AHMEDABAD",
+    "area": [
+      {
+        "area": "GIDC",
+        "pincode": "382430",
+        "_id": "668259f2bdae59210ab79e2f"
+      },
+      {
+        "area": "SANAND",
+        "pincode": "382110",
+        "_id": "66825a21bdae59210ab79e33"
+      },
+      {
+        "area": "KUJAD",
+        "pincode": "382433",
+        "_id": "66825be0bdae59210ab79e44"
+      },
+      {
+        "area": "CHHATRAL",
+        "pincode": "382705",
+        "_id": "66825c5cbdae59210ab79e4a"
+      },
+      {
+        "area": "MIRAPUR",
+        "pincode": "380058",
+        "_id": "66825e28bdae59210ab79e59"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825e4cbdae59210ab79e61"
+      },
+      {
+        "area": "SANAND",
+        "pincode": "382110",
+        "_id": "66825e61bdae59210ab79e6a"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825f40bdae59210ab79e7c"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825f53bdae59210ab79e87"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825f67bdae59210ab79e93"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825f83bdae59210ab79ea0"
+      },
+      {
+        "area": "SANAND",
+        "pincode": "382110",
+        "_id": "66826009bdae59210ab79ed5"
+      },
+      {
+        "area": "SANAND",
+        "pincode": "382110",
+        "_id": "66826550bdae59210ab7a133"
+      }
+    ],
+    "__v": 12
+  },
+  {
+    "_id": "66825af4bdae59210ab79e36",
+    "location": "HALOL",
+    "district": "PANCHMAHAL",
+    "area": [
+      {
+        "area": "SAVLI-HALOL ROAD",
+        "pincode": "389350",
+        "_id": "66825af4bdae59210ab79e37"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825b15bdae59210ab79e3a",
+    "location": "DALPUR",
+    "district": "SABARKANTA",
+    "area": [
+      {
+        "area": "PRANTIJ",
+        "pincode": "383120",
+        "_id": "66825b15bdae59210ab79e3b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825b7abdae59210ab79e3e",
+    "location": "ZAK GIDC",
+    "district": "GANDHINAGAR",
+    "area": [
+      {
+        "area": "DEHGAM",
+        "pincode": "382305",
+        "_id": "66825b7abdae59210ab79e3f"
+      },
+      {
+        "area": "KHODIYAR",
+        "pincode": "382421",
+        "_id": "66825c7cbdae59210ab79e4e"
+      }
+    ],
+    "__v": 1
+  },
+  {
+    "_id": "66825ccabdae59210ab79e51",
+    "location": "SONASAN",
+    "district": "SABARKANTHA",
+    "area": [
+      {
+        "area": "PRANTIJ",
+        "pincode": "383210",
+        "_id": "66825ccabdae59210ab79e52"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825ebebdae59210ab79e6d",
+    "location": "TALHETI",
+    "district": "SIROHI -RAJASTHAN",
+    "area": [
+      {
+        "area": "ABU ROAD",
+        "pincode": "307510",
+        "_id": "66825ebebdae59210ab79e6e"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825f2bbdae59210ab79e71",
+    "location": "DAHEJ GIDC",
+    "district": "BHARUCH",
+    "area": [
+      {
+        "area": "DAHEJ",
+        "pincode": "392130",
+        "_id": "66825f2bbdae59210ab79e72"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb987",
+    "district": "Ahmedabad",
+    "location": "Naroda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99a",
+    "district": "Ahmedabad",
+    "location": "Rakhiyal"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98a",
+    "district": "Ahmedabad",
+    "location": "Dholka"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb984",
+    "district": "Ahmedabad",
+    "location": "Kathwada"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb989",
+    "district": "Ahmedabad",
+    "location": "Jetalpur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb983",
+    "district": "Ahmedabad",
+    "location": "Vatva"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb982",
+    "district": "Abu Road",
+    "location": "Talheti"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb986",
+    "district": "Ahmedabad",
+    "location": "Odhav"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98e",
+    "district": "Ahmedabad",
+    "location": "Aslali"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb996",
+    "district": "Gandhinagar",
+    "location": "Golden Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb999",
+    "district": "Ahmedabad",
+    "location": "Bapunagar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a7",
+    "district": "Ahmedabad",
+    "location": "GIDC Kerala"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b6",
+    "district": "Ahmedabad",
+    "location": "Mansi Circle"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b7",
+    "district": "Ahmedabad",
+    "location": "Thol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ba",
+    "district": "Ahmedabad",
+    "location": "Lambha"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb992",
+    "district": "Ahmedabad",
+    "location": "Ambawadi"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb993",
+    "district": "Ahmedabad",
+    "location": "Ramol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99f",
+    "district": "Gandhinagar",
+    "location": "Able Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a0",
+    "district": "Ahmedabad",
+    "location": "Gota"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a3",
+    "district": "Ahmedabad",
+    "location": "Viramgam"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ae",
+    "district": "Ahmedabad",
+    "location": "Ganeshpura"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b0",
+    "district": "Ahmedabad",
+    "location": "Bopal"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b3",
+    "district": "Ahmedabad",
+    "location": "Khatrej"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9be",
+    "district": "Ahmedabad",
+    "location": "Bodakdev"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a8",
+    "district": "Ahmedabad",
+    "location": "Jai Kali Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9aa",
+    "district": "Ahmedabad",
+    "location": "Ellisbridge"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ab",
+    "district": "Ahmedabad",
+    "location": "Sola"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ad",
+    "district": "Ahmedabad",
+    "location": "Shahibaug"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9bd",
+    "district": "Ahmedabad",
+    "location": "Vitthalapur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c0",
+    "district": "Ahmedabad",
+    "location": "Bakrol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c1",
+    "district": "Ahmedabad",
+    "location": "Mahijda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb994",
+    "district": "Ahmedabad",
+    "location": "Singarva"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb995",
+    "district": "Ahmedabad",
+    "location": "Gojariya"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb998",
+    "district": "Ahmedabad",
+    "location": "Shivranjini"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99b",
+    "district": "Ahmedabad",
+    "location": "Prahladnagar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99e",
+    "district": "Ahmedabad",
+    "location": "Rajpath Club"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9af",
+    "district": "Ahmedabad",
+    "location": "Sanathal"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b1",
+    "district": "Ahmedabad",
+    "location": "Vadsar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b8",
+    "district": "Ahmedabad",
+    "location": "Kanbha"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98b",
+    "district": "Ahmedabad",
+    "location": "Air Cargo"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98d",
+    "district": "Ahmedabad",
+    "location": "Narol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb990",
+    "district": "Ahmedabad",
+    "location": "Nadiad"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb991",
+    "district": "Ahmedabad",
+    "location": "Talod"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb997",
+    "district": "Gandhinagar",
+    "location": "Questyard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a1",
+    "district": "Ahmedabad",
+    "location": "Bareja"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a4",
+    "district": "Ahmedabad",
+    "location": "Sarangpur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a5",
+    "district": "Ahmedabad",
+    "location": "Gomtipur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b5",
+    "district": "Ahmedabad",
+    "location": "Kubadthal"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b9",
+    "district": "Ahmedabad",
+    "location": "Chandkheda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb985",
+    "district": "Gandhinagar",
+    "location": "ICD Khodiyar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99d",
+    "district": "Ahmedabad",
+    "location": "Navrangpura"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a9",
+    "district": "Ahmedabad",
+    "location": "Bavla"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b2",
+    "district": "Ahmedabad",
+    "location": "Matoda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9b4",
+    "district": "Sabarkantha",
+    "location": "Antisara"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9bc",
+    "district": "Ahmedabad",
+    "location": "Kamod"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9bf",
+    "district": "Ahmedabad",
+    "location": "Rakanpur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb988",
+    "district": "Ahmedabad",
+    "location": "Sarkhej"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98c",
+    "district": "Ahmedabad",
+    "location": "SG Highway"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb98f",
+    "district": "Ahmedabad",
+    "location": "Piplej"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb99c",
+    "district": "Ahmedabad",
+    "location": "Moti Bhoyan"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a2",
+    "district": "Ahmedabad",
+    "location": "Memnagar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9a6",
+    "district": "Sabarkantha",
+    "location": "Dalpur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9bb",
+    "district": "Ahmedabad",
+    "location": "Kalupur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ac",
+    "district": "Ahmedabad",
+    "location": "Dariyapur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c4",
+    "district": "Ahmedabad",
+    "location": "Kalyangadh"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c2",
+    "district": "Ahmedabad",
+    "location": "Kunjad"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ca",
+    "district": "Gandhinagar",
+    "location": "Jaliyano Math"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c6",
+    "district": "Gandhinagar",
+    "location": "Limbodara"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c8",
+    "district": "Kheda",
+    "location": "Kapadvanj"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ec",
+    "district": "Bharuch",
+    "location": "Anklawa"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c7",
+    "district": "Ahmedabad",
+    "location": "Miroli"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c9",
+    "district": "Ahmedabad",
+    "location": "Saraspur"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d3",
+    "district": "Ahmedabad",
+    "location": "Mota Chiloda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d9",
+    "district": "Kheda",
+    "location": "Kapadvanj"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9cd",
+    "district": "Sabarkantha",
+    "location": "Ranasan"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9dc",
+    "district": "Anand",
+    "location": "Vithal Udyognagar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9df",
+    "district": "Vadodara",
+    "location": "Halol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e0",
+    "district": "Vadodara",
+    "location": "Por GIDC"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e8",
+    "district": "Vadodara",
+    "location": "Padra"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ea",
+    "district": "Vadodara",
+    "location": "Jambusar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ee",
+    "district": "Bhavnagar",
+    "location": "Mahuva"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d5",
+    "district": "Ahmedabad",
+    "location": "Pirana"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e5",
+    "district": "Vadodara",
+    "location": "CWC"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e6",
+    "district": "Vadodara",
+    "location": "ICD Dashrath"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9eb",
+    "district": "Vadodara",
+    "location": "ICD Varnama"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c3",
+    "district": "Gandhinagar",
+    "location": "Sai Marine Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9c5",
+    "district": "Sabarkantha",
+    "location": "Harsol"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9cb",
+    "district": "Ahmedabad",
+    "location": "Vaishnodevi Circle"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9cc",
+    "district": "Ahmedabad",
+    "location": "Paldi Kankaj"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ce",
+    "district": "Ahmedabad",
+    "location": "Kuha"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9cf",
+    "district": "Ahmedabad",
+    "location": "Thaltej"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d6",
+    "district": "Sabarkantha",
+    "location": "Dadarda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d7",
+    "district": "Ahmedabad",
+    "location": "Sachana"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d8",
+    "district": "Ahmedabad",
+    "location": "Maninagar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9dd",
+    "district": "Bharuch",
+    "location": "ICD Ankleshwar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9da",
+    "district": "Ahmedabad",
+    "location": "Bhavda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d1",
+    "district": "Ahmedabad",
+    "location": "Chandial"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d0",
+    "district": "Ahmedabad",
+    "location": "Dascroi"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9db",
+    "district": "Anand",
+    "location": "Dharmaj"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e2",
+    "district": "Vadodara",
+    "location": "Ranoli"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e3",
+    "district": "Vadodara",
+    "location": "Golden Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e9",
+    "district": "Vadodara",
+    "location": "Padmala"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d4",
+    "district": "Gandhinagar",
+    "location": "Ahmedpura"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9de",
+    "district": "Bharuch",
+    "location": "Kondh"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e1",
+    "district": "Vadodara",
+    "location": "Manjusar"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e4",
+    "district": "Vadodara",
+    "location": "RCT Baroda"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9ed",
+    "district": "Bhavnagar",
+    "location": "Mamsa"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9d2",
+    "district": "Gandhinagar",
+    "location": "Jay Bhavani Yard"
+  },
+  {
+    "_id": "66aa59c4bc9d5de6f7fdb9e7",
+    "district": "Vadodara",
+    "location": "Garadhia"
+  },
+  {
+    "_id": "66b5ef08e91291e2e4e26614",
+    "location": "Abu Road",
+    "district": "Sirohi",
+    "area": [
+      {
+        "area": "Talheti",
+        "pincode": "307510",
+        "_id": "66b5ef08e91291e2e4e26615"
+      }
+    ],
+    "__v": 0
+  }
+]

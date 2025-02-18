@@ -1,0 +1,222 @@
+[
+  {
+    "_id": "666c4b85c8f9b953ee7be287",
+    "name": "Suraj Forwarders Pvt Ltd.",
+    "gst": "123",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "KHODIYAR",
+        "default": false,
+        "_id": "666c4b85c8f9b953ee7be288",
+        "addresses": []
+      }
+    ],
+    "phone": "",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "666c4bedc8f9b953ee7be28b",
+    "name": "ARYAN STAINLESS INTERNATIONAL PRIVATE LIMITED",
+    "gst": "24AAWCA7665E1Z9",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "Bhavda",
+        "default": true,
+        "_id": "666c4bedc8f9b953ee7be28c",
+        "addresses": []
+      }
+    ],
+    "phone": "",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Consignee",
+      "Shipper"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825529bdae59210ab79dc7",
+    "name": "SSG GLOBAL",
+    "gst": "24ADRPS3350F2ZE",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "ODHAV",
+        "default": false,
+        "_id": "66825529bdae59210ab79dc8",
+        "addresses": []
+      }
+    ],
+    "phone": "9662323699",
+    "website": "",
+    "email": "rsmetalalloys@gmail.com",
+    "pan": "ADRPS3350F",
+    "status": [
+      "Shipper",
+      "Consignee",
+      "Services"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825660bdae59210ab79de9",
+    "name": "MANGALAM WORLDWIDE LTD.",
+    "gst": "24AABCT3020F1Z0",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "HALOL",
+        "default": true,
+        "_id": "66825660bdae59210ab79dea",
+        "addresses": []
+      }
+    ],
+    "phone": "9925048118",
+    "website": "",
+    "email": "",
+    "pan": "AABCT3020F",
+    "status": [
+      "Consignee",
+      "Shipper"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825742bdae59210ab79ded",
+    "name": "GEMCORP RECYCLING AND TECHNOLOGIES PVT LTD.",
+    "gst": "24AAICG0534G1ZZ",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "DALPUR",
+        "default": true,
+        "_id": "66825742bdae59210ab79dee",
+        "addresses": []
+      }
+    ],
+    "phone": "9817854209",
+    "website": "",
+    "email": "",
+    "pan": "AAICG0534G",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "668257b3bdae59210ab79df1",
+    "name": "NANDESHWARI STEEL LTD",
+    "gst": "24AABCN3464B1ZY",
+    "instructions": "TIPPER",
+    "branches": [
+      {
+        "branch": "ZAK",
+        "default": true,
+        "_id": "668257b3bdae59210ab79df2",
+        "addresses": []
+      }
+    ],
+    "phone": "9979850408",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825820bdae59210ab79df5",
+    "name": "SAINATH METALS ALLOYS PVT LTD.",
+    "gst": "24AANCS4299K1ZN",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "KUBADTHAL",
+        "default": true,
+        "_id": "66825820bdae59210ab79df6",
+        "addresses": []
+      }
+    ],
+    "phone": "7069021713",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66825892bdae59210ab79df9",
+    "name": "UNIQUE SPEDITORER PVT LTD.",
+    "gst": "",
+    "instructions": "CHA",
+    "branches": [
+      {
+        "branch": "KHODIYAR",
+        "default": false,
+        "_id": "66825892bdae59210ab79dfa",
+        "addresses": []
+      },
+      {
+        "branch": "MUNDRA",
+        "default": true,
+        "_id": "66825892bdae59210ab79dfb",
+        "addresses": []
+      },
+      {
+        "branch": "SANAND",
+        "default": false,
+        "_id": "66825892bdae59210ab79dfc",
+        "addresses": []
+      }
+    ],
+    "phone": "",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "668258ddbdae59210ab79dff",
+    "name": "AVOCAB INDIA PVT LTD.",
+    "gst": "24AAUCA9454F1ZA",
+    "instructions": "",
+    "branches": [
+      {
+        "branch": "NANDASAN",
+        "default": true,
+        "_id": "668258ddbdae59210ab79e00",
+        "addresses": []
+      }
+    ],
+    "phone": "",
+    "website": "",
+    "email": "",
+    "pan": "",
+    "status": [
+      "Shipper",
+      "Consignee"
+    ],
+    "__v": 0
+  }
+]

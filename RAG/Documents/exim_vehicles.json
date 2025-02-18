@@ -1,0 +1,471 @@
+[
+  {
+    "_id": "655dcd89900842bb54ff1bea",
+    "truck_no": "GJ18AZ4495",
+    "max_tyres": "5",
+    "units": "1",
+    "tyres": [
+      {
+        "tyre_no": "H3T1116445",
+        "location": "",
+        "fitting_date": "",
+        "fitting_date_odometer": "",
+        "_id": "66a1adf931a778848828fca3"
+      }
+    ],
+    "drivers": [
+      {
+        "driver_name": "BABLU",
+        "driver_license": "UP8020150041230",
+        "assign_date": "",
+        "_id": "66a1cdb9f6877f79ed7369f5"
+      }
+    ],
+    "__v": 5,
+    "rto": {
+      "inspection_due_date": "2023-11-11",
+      "mv_tax_date": "LTT",
+      "insurance_expiry_date": "2023-11-11",
+      "puc_expiry_date": "2023-11-11",
+      "goods_permit_no": "a",
+      "goods_permit_validity_date": "2023-11-11",
+      "national_permit_no": "aaa",
+      "national_permit_validity_date": "2023-11-11",
+      "hp": "a",
+      "hp_financer_name": "a",
+      "number_plate": "Yes",
+      "supd": "a",
+      "mv_tax_photo": [
+        "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/rto/diagram-export-11-07-2024-11_16_23.png"
+      ],
+      "insurance_photo": [],
+      "puc_photo": [],
+      "goods_permit_photo": [],
+      "national_permit_photo": [],
+      "rc_front_photo": [],
+      "rc_rear_photo": []
+    },
+    "accidents": [
+      {
+        "third_party_vehicle_no": "AA00AA0000",
+        "date": "2023-11-11",
+        "time": "12:03",
+        "driver_name": "axasd",
+        "opposite_party_name": "sadwd",
+        "vehicle_type": "20 Feet 10 Wheels",
+        "insured": "dwef",
+        "location": "fqwef",
+        "settlement_amount": 121,
+        "remarks": "cqwec",
+        "image": [
+          "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/accidents/diagram-export-11-07-2024-11_16_23.png"
+        ],
+        "_id": "66b44a4e9a7a4760da92dd07"
+      }
+    ],
+    "challans": [
+      {
+        "challan_no": "wdqwd",
+        "challan_date": "2023-11-11",
+        "challan_amount": 23412431,
+        "challan_driver_contact": "wdwef",
+        "challan_reason": "csdcsdcw",
+        "challan_location": "csdcaws",
+        "challan_document": [
+          "https://alvision-exim-images.s3.ap-south-1.amazonaws.com/rto/diagram-export-11-07-2024-11_16_23.png"
+        ],
+        "_id": "66b449ccbe68c92ba4b1630b"
+      }
+    ]
+  },
+  {
+    "_id": "655dd57c900842bb54ff1bfb",
+    "truck_no": "GJ18AV4735",
+    "max_tyres": "11",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "tyres": [
+      {
+        "tyre_no": "U2644973022",
+        "location": "T-A1-RI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d209361d8fc2903d88916"
+      },
+      {
+        "tyre_no": "30306801522",
+        "location": "T-A1-LO",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d20dc61d8fc2903d8891a"
+      },
+      {
+        "tyre_no": "K0001190222",
+        "location": "P-A1-LI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "00000",
+        "_id": "659d211661d8fc2903d88923"
+      },
+      {
+        "tyre_no": "H0014402222",
+        "location": "P-A1-LI",
+        "fitting_date": "2024-01-09",
+        "fitting_date_odometer": "000000",
+        "_id": "659d216561d8fc2903d8892e"
+      }
+    ],
+    "drivers": [
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-12",
+        "_id": "659fbce661d8fc2903d88ca7"
+      }
+    ],
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "655dd58a900842bb54ff1bfe",
+    "truck_no": "GJ18AV4737",
+    "max_tyres": "11",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "655dd5b9900842bb54ff1c01",
+    "truck_no": "GJ01CV4935",
+    "max_tyres": "11",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "655dd613900842bb54ff1c04",
+    "truck_no": "GJ01AU4504",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd642900842bb54ff1c07",
+    "truck_no": "GJ18AZ5394",
+    "max_tyres": "15",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd650900842bb54ff1c0a",
+    "truck_no": "GJ18AZ0849",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd65e900842bb54ff1c0d",
+    "truck_no": "GJ18BT5220",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd669900842bb54ff1c10",
+    "truck_no": "GJ18AX6955",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd671900842bb54ff1c13",
+    "truck_no": "GJ18AX0063",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd67c900842bb54ff1c16",
+    "truck_no": "GJ18AZ5588",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "tyres": [
+      {
+        "tyre_no": "V0196405120",
+        "location": "1",
+        "fitting_date": "2023-11-16",
+        "fitting_date_odometer": "159007",
+        "_id": "655f71f8482e9b3773fc0045"
+      },
+      {
+        "tyre_no": "H0062700623",
+        "location": "2",
+        "fitting_date": "2023-11-16",
+        "fitting_date_odometer": "159007",
+        "_id": "655f72fd482e9b3773fc0058"
+      }
+    ],
+    "drivers": [],
+    "__v": 0
+  },
+  {
+    "_id": "655dd690900842bb54ff1c19",
+    "truck_no": "GJ18BV5428",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd69d900842bb54ff1c1c",
+    "truck_no": "GJ18BV5224",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle tipper trailer",
+    "units": "2",
+    "__v": 0,
+    "rto": {
+      "inspection_due_date": "",
+      "mv_tax_date": "",
+      "insurance_expiry_date": "",
+      "puc_expiry_date": "",
+      "goods_permit_no": "",
+      "goods_permit_validity_date": "",
+      "national_permit_no": "",
+      "national_permit_validity_date": "",
+      "hp": "",
+      "hp_financer_name": "",
+      "number_plate": "",
+      "supd": "",
+      "mv_tax_photo": [],
+      "insurance_photo": [],
+      "puc_photo": [],
+      "goods_permit_photo": [],
+      "national_permit_photo": [],
+      "rc_front_photo": [],
+      "rc_rear_photo": []
+    }
+  },
+  {
+    "_id": "655dd6b3900842bb54ff1c1f",
+    "truck_no": "GJ18AV7468",
+    "max_tyres": "19",
+    "type_of_vehicle": "40 feet 3-axle tipper trailer",
+    "units": "2",
+    "tyres": [
+      {
+        "tyre_no": "70082222971",
+        "location": "T-A1-RI",
+        "fitting_date": "2023-12-07",
+        "fitting_date_odometer": "100000",
+        "_id": "659d0eae61d8fc2903d888d2"
+      }
+    ],
+    "drivers": [],
+    "__v": 0
+  },
+  {
+    "_id": "655dd6c0900842bb54ff1c22",
+    "truck_no": "GJ18AV8971",
+    "max_tyres": "19",
+    "type_of_vehicle": "40 feet 3-axle trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd6cf900842bb54ff1c25",
+    "truck_no": "GJ18AZ4229",
+    "max_tyres": "19",
+    "type_of_vehicle": "40 feet 3-axle trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd6de900842bb54ff1c28",
+    "truck_no": "GJ18AX6284",
+    "max_tyres": "19",
+    "type_of_vehicle": "40 feet 3-axle trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "655dd6ec900842bb54ff1c2b",
+    "truck_no": "GJ01CX2097",
+    "max_tyres": "19",
+    "type_of_vehicle": "40 feet 3-axle trailer",
+    "units": "2",
+    "__v": 0
+  },
+  {
+    "_id": "656849ad482e9b3773fc0248",
+    "truck_no": "GJ12Z1317",
+    "max_tyres": "15",
+    "type_of_vehicle": "40 feet 2-axle trailer",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "656849c5482e9b3773fc024b",
+    "truck_no": "GJ12Z2989",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle trailer",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "656849e0482e9b3773fc024e",
+    "truck_no": "GJ12Z1090",
+    "max_tyres": "15",
+    "type_of_vehicle": "40 feet 2-axle trailer",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "656849fc482e9b3773fc0251",
+    "truck_no": "GJ12Z3234",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle trailer",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "65684a21482e9b3773fc0254",
+    "truck_no": "GJ20U7188",
+    "max_tyres": "11",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "65685a94482e9b3773fc02ba",
+    "truck_no": "GJ12Z1089",
+    "max_tyres": "15",
+    "type_of_vehicle": "20 feet 2-axle trailer",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "656f0fa9482e9b3773fc032c",
+    "truck_no": "GJ15X8939",
+    "max_tyres": "11",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "units": "1",
+    "__v": 0
+  },
+  {
+    "_id": "659e66c761d8fc2903d88a84",
+    "truck_no": "GJ18AU8480",
+    "max_tyres": "12",
+    "type_of_vehicle": "20 feet 12 wheels",
+    "units": "1",
+    "tyres": [
+      {
+        "tyre_no": "30306801522",
+        "location": "T-A1-RI",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6d4f61d8fc2903d88ab6"
+      },
+      {
+        "tyre_no": "U2644973022",
+        "location": "T-A1-RO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6d9461d8fc2903d88abe"
+      },
+      {
+        "tyre_no": "K0001190222",
+        "location": "T-A1-LI",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6de061d8fc2903d88ac7"
+      },
+      {
+        "tyre_no": "30108623519",
+        "location": "T-A1-LO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6e1861d8fc2903d88ad0"
+      },
+      {
+        "tyre_no": "H0014402222",
+        "location": "P-A1-LO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "000001",
+        "_id": "659e6e6d61d8fc2903d88ad8"
+      },
+      {
+        "tyre_no": "K0139032621",
+        "location": "P-A1-RO",
+        "fitting_date": "2024-01-10",
+        "fitting_date_odometer": "999999",
+        "_id": "659e6ea861d8fc2903d88ae6"
+      }
+    ],
+    "drivers": [],
+    "__v": 0
+  },
+  {
+    "_id": "659e8c4c61d8fc2903d88b0c",
+    "truck_no": "TN48PO4226",
+    "max_tyres": "18",
+    "type_of_vehicle": "20 feet 12 wheels",
+    "units": "AA",
+    "tyres": [
+      {
+        "tyre_no": "P225/70R1691S",
+        "location": "FL",
+        "fitting_date": "2024-01-11",
+        "fitting_date_odometer": "25",
+        "_id": "659f8a5061d8fc2903d88be7"
+      },
+      {
+        "tyre_no": "P225/7091S",
+        "location": "FL",
+        "fitting_date": "2024-01-11",
+        "fitting_date_odometer": "RR",
+        "_id": "659f8ced61d8fc2903d88c03"
+      }
+    ],
+    "drivers": [
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fb7ca61d8fc2903d88c83"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fb7e561d8fc2903d88c8d"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fbb7c61d8fc2903d88c94"
+      },
+      {
+        "driver_name": "Kumar",
+        "driver_license": "ADF52884",
+        "assign_date": "2024-01-11",
+        "_id": "659fbc1d61d8fc2903d88c9c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "66a4e4e91a35026adbaf0b7f",
+    "truck_no": "AA00AA0000",
+    "type_of_vehicle": "20 feet 10 wheels",
+    "max_tyres": "5 Wheel",
+    "units": "1",
+    "drivers": [],
+    "tyres": [],
+    "__v": 0
+  }
+]
